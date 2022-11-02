@@ -5,6 +5,9 @@
 #vscode
 .vscode/
 
+
+appsettings.js
+
 ### DotnetCore ###
 # .NET Core build folders
 bin/
